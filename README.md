@@ -28,8 +28,9 @@ salary_prediction.csv → Dataset used for training.
 
 Clone the repository:
 
-git clone https://github.com/your-username/salary-prediction-ann.git
-cd salary-prediction-ann
+git clone https://github.com/SA12352/SALARY-PREDICTOR-APP.git
+cd SALARY-PREDICTOR-APP
+
 
 
 Install dependencies:
